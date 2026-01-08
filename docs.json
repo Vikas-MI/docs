@@ -60,9 +60,9 @@
           {
             "group": "Inline Element & Section Editing",
             "pages": [
-              "guides/inline-element-section-editing/html-element-editor",
-              "guides/inline-element-section-editing/media-links",
-              "guides/inline-element-section-editing/section-level-controls"
+              "inline-element-section-editing/html-element-editor",
+              "inline-element-section-editing/media-links",
+              "inline-element-section-editing/section-level-controls"
             ]
           }
         ]
