@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Butternut Documentation",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -11,112 +11,106 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Administrative & Financial Management",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Account & Profile Management",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "guides/account-profile-management/user-profiles",
+              "guides/account-profile-management/security-recovery",
+              "guides/account-profile-management/team-collaboration"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Billing, Credits & Subscriptions",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "guides/billing-credits-subscriptions/subscription-management",
+              "guides/billing-credits-subscriptions/ai-credits-system",
+              "guides/billing-credits-subscriptions/appsumo-licensing"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Shopify Merchant Integration",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "guides/shopify-merchant-integration/shopify-dashboard",
+              "guides/shopify-merchant-integration/product-image-tools"
             ]
           }
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Website Building & Design Suite",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "Website Structure & AI Generation",
             "pages": [
-              "api-reference/introduction"
+              "guides/website-structure-ai-generation/website-generation-multipage",
+              "guides/website-structure-ai-generation/landing-pages-portfolios",
+              "guides/website-structure-ai-generation/page-management"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Website Customisation",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "guides/website-customisation-sidebar-tools/brand-identity",
+              "guides/website-customisation-sidebar-tools/theme-typography",
+              "guides/website-customisation-sidebar-tools/navigation-header-footer"
+            ]
+          },
+          {
+            "group": "Inline Element & Section Editing",
+            "pages": [
+              "guides/inline-element-section-editing/html-element-editor",
+              "guides/inline-element-section-editing/media-links",
+              "guides/inline-element-section-editing/section-level-controls"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Content & Automation Services",
+        "groups": [
+          {
+            "group": "Blogging & Content Marketing",
+            "pages": [
+              "guides/blogging-content-marketing/ai-blog-creation",
+              "guides/blogging-content-marketing/editorial-workflow",
+              "guides/blogging-content-marketing/article-management"
+            ]
+          },
+          {
+            "group": "AI Social Apps & Agents",
+            "pages": [
+              "guides/ai-social-apps-agents/account-integration",
+              "guides/ai-social-apps-agents/automated-posting-settings",
+              "guides/ai-social-apps-agents/queue-management"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Deployment & User Support",
+        "groups": [
+          {
+            "group": "Publishing & Domains",
+            "pages": [
+              "guides/publishing-domains/domain-management",
+              "guides/publishing-domains/automated-domain-services-entri"
+            ]
+          },
+          {
+            "group": "Interaction & Support",
+            "pages": [
+              "guides/interaction-support/reviews-social-proof",
+              "guides/interaction-support/help-assistance"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
   }
 }
