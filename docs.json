@@ -101,8 +101,8 @@
           {
             "group": "Interaction & Support",
             "pages": [
-              "guides/interaction-support/reviews-social-proof",
-              "guides/interaction-support/help-assistance"
+              "interaction-support/reviews-social-proof",
+              "interaction-support/help-assistance"
             ]
           }
         ]
