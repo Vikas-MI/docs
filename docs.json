@@ -121,5 +121,10 @@
   "logo": {
     "light": "/logo/test.svg",
     "dark": "/logo/test.svg"
+  },
+  "integrations": {
+    "intercom": {
+      "appId": "uv4u06dg"
+    }
   }
 }
