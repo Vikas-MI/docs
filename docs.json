@@ -81,9 +81,9 @@
           {
             "group": "AI Social Apps & Agents",
             "pages": [
-              "guides/ai-social-apps-agents/account-integration",
-              "guides/ai-social-apps-agents/automated-posting-settings",
-              "guides/ai-social-apps-agents/queue-management"
+              "ai-social-apps-agents/account-integration",
+              "ai-social-apps-agents/automated-posting-settings",
+              "ai-social-apps-agents/queue-management"
             ]
           }
         ]
