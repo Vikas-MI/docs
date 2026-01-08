@@ -24,9 +24,9 @@
           {
             "group": "Billing, Credits & Subscriptions",
             "pages": [
-              "guides/billing-credits-subscriptions/subscription-management",
-              "guides/billing-credits-subscriptions/ai-credits-system",
-              "guides/billing-credits-subscriptions/appsumo-licensing"
+              "billing-credits-subscriptions/subscription-management",
+              "billing-credits-subscriptions/ai-credits-system",
+              "billing-credits-subscriptions/appsumo-licensing"
             ]
           },
           {
