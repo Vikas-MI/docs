@@ -107,7 +107,16 @@
           }
         ]
       }
-    ]
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Butternut AI",
+          "href": "/",
+          "icon": "book-open-cover"
+        }
+      ]
+    }
   },
   "logo": {
     "light": "/logo/test.svg",
