@@ -16,9 +16,9 @@
           {
             "group": "Account & Profile Management",
             "pages": [
-              "guides/account-profile-management/user-profiles",
-              "guides/account-profile-management/security-recovery",
-              "guides/account-profile-management/team-collaboration"
+              "account-profile-management/user-profiles",
+              "account-profile-management/security-recovery",
+              "account-profile-management/team-collaboration"
             ]
           },
           {
