@@ -94,8 +94,8 @@
           {
             "group": "Publishing & Domains",
             "pages": [
-              "guides/publishing-domains/domain-management",
-              "guides/publishing-domains/automated-domain-services-entri"
+              "publishing-domains/domain-management",
+              "publishing-domains/automated-domain-services-entri"
             ]
           },
           {
