@@ -73,9 +73,9 @@
           {
             "group": "Blogging & Content Marketing",
             "pages": [
-              "guides/blogging-content-marketing/ai-blog-creation",
-              "guides/blogging-content-marketing/editorial-workflow",
-              "guides/blogging-content-marketing/article-management"
+              "blogging-content-marketing/ai-blog-creation",
+              "blogging-content-marketing/editorial-workflow",
+              "blogging-content-marketing/article-management"
             ]
           },
           {
