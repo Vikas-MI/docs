@@ -52,9 +52,9 @@
           {
             "group": "Website Customisation",
             "pages": [
-              "guides/website-customisation-sidebar-tools/brand-identity",
-              "guides/website-customisation-sidebar-tools/theme-typography",
-              "guides/website-customisation-sidebar-tools/navigation-header-footer"
+              "website-customisation-sidebar-tools/brand-identity",
+              "website-customisation-sidebar-tools/theme-typography",
+              "website-customisation-sidebar-tools/navigation-header-footer"
             ]
           },
           {
