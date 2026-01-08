@@ -44,9 +44,9 @@
           {
             "group": "Website Structure & AI Generation",
             "pages": [
-              "guides/website-structure-ai-generation/website-generation-multipage",
-              "guides/website-structure-ai-generation/landing-pages-portfolios",
-              "guides/website-structure-ai-generation/page-management"
+              "website-structure-ai-generation/website-generation-multipage",
+              "website-structure-ai-generation/landing-pages-portfolios",
+              "website-structure-ai-generation/page-management"
             ]
           },
           {
