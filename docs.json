@@ -1,6 +1,5 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
   "name": "Butternut Documentation",
   "colors": {
     "primary": "#7210e3",
@@ -103,6 +102,17 @@
             "pages": [
               "interaction-support/reviews-social-proof",
               "interaction-support/help-assistance"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Videos",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "getting-started-video"
             ]
           }
         ]
